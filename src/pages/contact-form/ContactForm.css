@@ -1,0 +1,23 @@
+.contact-jumbotron {
+  background-image: url("../../assets/img/background/3124511.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#youtube-btn {
+  border-color: #f83f37;
+  color: #f83f37;
+}
+#youtube-btn:hover {
+  background-color: #f83f37;
+  color: #ffffff;
+}
+.image{
+height: 400px;
+padding-top: 50px;
+width:180px;
+}
+.button{
+  background-image: linear-gradient(45deg ,  rgba(68, 64, 64, 0.699) , black);
+}
